@@ -1,12 +1,16 @@
 # abstraction_learning
 Learning the abstracted logic behind an image
 
+<p align="center">
+  <img src="artifacts/demo.png" width="500" title="Abstraction Learning">
+</p>
+
 ## Setup
 
 ### Ubuntu 18.0
 
 ### WINDOWS
-    - conda version 4.8.2
+    - conda version 4.8.2, https://docs.conda.io/en/latest/miniconda.html
     - CUDA version 10.0
     - conda env create -f environment_windows.yml
     - conda activate al
