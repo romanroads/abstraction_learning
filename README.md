@@ -2,7 +2,7 @@
 Learning the abstracted logic behind an image
 
 <p align="center">
-  <img src="artifacts/demo.png" width="500" title="Abstraction Learning">
+  <img src="artifacts/demo.png" width="1000" title="Abstraction Learning">
 </p>
 
 ## Setup
